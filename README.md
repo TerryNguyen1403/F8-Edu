@@ -1,1 +1,1 @@
-# Building a Manga reading website by using Node.js and MongoDB
+# Building a F8 Edu website by using Node.js and MongoDB
